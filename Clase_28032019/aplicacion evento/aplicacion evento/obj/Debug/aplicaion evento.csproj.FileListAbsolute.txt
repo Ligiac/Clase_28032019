@@ -1,0 +1,17 @@
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\bin\Debug\aplicaion evento.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\bin\Debug\aplicaion evento.exe
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\bin\Debug\aplicaion evento.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion evento.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion_evento.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion_evento.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion evento.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion evento.exe
+c:\users\lab3\documents\visual studio 2013\Projects\aplicaion evento\aplicaion evento\obj\Debug\aplicaion evento.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28-032019\aplicacion evento\aplicacion evento\bin\Debug\aplicaion evento.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28-032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.exe
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28-032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28-032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28032019\aplicacion evento\aplicacion evento\bin\Debug\aplicaion evento.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.exe
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_28032019\aplicacion evento\aplicacion evento\obj\Debug\aplicaion evento.csprojResolveAssemblyReference.cache
